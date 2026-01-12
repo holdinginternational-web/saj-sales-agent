@@ -1,0 +1,9 @@
+{
+  "features": [
+    "backup integrato nativo",
+    "funzionamento off-grid totale",
+    "operatività fino a -30°C senza derating batterie",
+    "PV oversizing fino al 200%"
+  ],
+  "target": "piccoli business / PMI / climi estremi"
+}
