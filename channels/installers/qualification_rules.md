@@ -1,0 +1,5 @@
+- criteri per identificare buoni installatori C&I
+- scoring (portfolio C&I, competenze elettriche, presenza geografica)
+- logica decisionale HS3 vs CHS2 vs CM2
+- focus su paesi: PL, CZ, EE, LT, SI
+- priorità a regioni con instabilità di rete e climi rigidi
